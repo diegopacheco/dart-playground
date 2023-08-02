@@ -11,4 +11,6 @@ void main() {
                Sucks.getters.toShortString(),
                Sucks.setters.toShortString()];
   print('What does sucks? ' + sucks.toString());
+
+  print(Sucks.enums.name);
 }
