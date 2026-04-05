@@ -1,0 +1,38 @@
+pocs/assert-fun/src/main.dart
+  c909a5724a5556e4 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "5d14b12673398feadc0afca6b5d8cc0a17d7ef90",
+  "prompts": {
+    "7e0cf64cbb47df5b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "863e80bd-d55c-49f9-b7c4-7a706ee7ece4",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "diegopacheco",
+      "messages": [],
+      "total_additions": 570,
+      "total_deletions": 1,
+      "accepted_lines": 569,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/ae41b461083964c9985a4c6cafa2c7faa9bdd116cc820ff339501fb676da5981"
+    },
+    "c909a5724a5556e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5602df26-5b58-4e57-9b79-1eb4ae172cbd",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "diegopacheco",
+      "messages": [],
+      "total_additions": 726,
+      "total_deletions": 164,
+      "accepted_lines": 562,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/08fb6e30556ff443f0a9407bbfe25fff018bce3438c4afe979307ea00dc181a2"
+    }
+  }
+}
